@@ -1,3 +1,3 @@
 En esta tarea hice mi Curriculum de una manera simple dejando los datos más importantes de mi vida laboral. Lo que me parecía mejor era hacer una lista con los trabajos en los que he estado y dejando mi correo en el final del sitio para contactarse conmigo. 
 
-<a href="file:///C:/Users/mlaci/OneDrive/Documentos/GitHub/starter/Tareas/Tarea_05/index.html">Este es el link</a>
+<a href="C:\Users\mlaci\OneDrive\Documentos\GitHub\starter\Tareas\Tarea_05\index.html">Este es el link</a>
